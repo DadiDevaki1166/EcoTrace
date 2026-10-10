@@ -1,0 +1,6 @@
+streamlit>=1.40
+crewai>=0.100
+litellm
+pandas
+python-dotenv
+pytest
